@@ -1,6 +1,6 @@
-### Hello there!
+## Hello there!
 
-## About me
+### About me
 I'm Pedro Crespan, IT student at UNESP - Bauru. 
 
 
