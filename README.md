@@ -1,15 +1,15 @@
 # Pedro Crespan
 
 ### About me
-Information systems student at UNESP, currently learning Java and SpringBoot. Aspiring to become a back-end developer and also contribute to the open source community.
+Information systems student at UNESP, currently learning Java and SpringBoot. Aspiring to become a back-end developer and also contributing to the open source community.
 
 
 ### Technologies
-<div style="display: inline_block">
+<div style="display: inline_block">                    
   <img align="center" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+  <img align="center" height="60" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
 </div>
 
 ### Contact me
