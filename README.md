@@ -1,7 +1,7 @@
 # Pedro Crespan
 
 ### About me
-Information systems student at UNESP, currently studying about Machine Learning and LLMs.
+Information systems student at UNESP, currently studying about Machine Learning and NLP.
 
 ### Contact me
 
