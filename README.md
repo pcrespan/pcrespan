@@ -4,7 +4,8 @@
 
 Sou um entusiasta de inteligência artificial, com foco em **Processamento de Linguagem Natural (PLN)** e **Visão Computacional**. Meu objetivo é resolver problemas complexos e criar ferramentas que tornam a interação entre humanos e máquinas mais intuitiva.
 
-## Habilidades principais
+
+<h2 align="center"> Habilidades principais </h2>
 
 ### 🎯 Processamento de Linguagem Natural
 - Implementação de modelos de linguagem com a arquitetura de **transformers**.
