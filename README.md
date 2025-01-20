@@ -15,7 +15,3 @@ Sou um entusiasta de inteligência artificial, com foco em **Processamento de Li
 - Processamento de imagens com **OpenCV** e **Pillow**.
 - Treinamento de redes convolucionais (CNNs) para classificação e segmentação.
 - Experiência com frameworks como **TensorFlow**, **PyTorch** e **Keras**.
-
-<h2 align="center"> Contato </h2>
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/pedro-crespan)
