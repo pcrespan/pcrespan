@@ -15,5 +15,3 @@ Sou um entusiasta de inteligência artificial, com foco em **Processamento de Li
 
 ## Como entrar em contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/pedro-crespan)
-
-Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus projetos e entrar em contato caso queira colaborar ou apenas bater um papo sobre IA e tecnologia! 🚀
