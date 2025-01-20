@@ -1,8 +1,8 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&duration=2000&pause=1000&color=897292&center=true&vCenter=true&width=435&lines=Bem+vindo!;Welcome!;Wilkommen!"/>
 </h1>
-## Sobre mim
 
+## Sobre mim
 Sou um entusiasta de inteligência artificial, com foco em **Processamento de Linguagem Natural (PLN)** e **Visão Computacional**. Meu objetivo é resolver problemas complexos e criar ferramentas que tornam a interação entre humanos e máquinas mais intuitiva.
 
 ## Habilidades principais
