@@ -2,7 +2,7 @@
 
 **`Machine Learning Engineer`**
 
-Hello! I'm a Machine Learning Engineer at **Tractian**, specializing in model deployment and data processing. I'm currently an undergraduate in Information Systems at **São Paulo State University (UNESP)**, where I am deepening my knowledge in technology, data science, and artificial intelligence. 
+Hello! I'm a Machine Learning Engineer at **Tractian**, specializing in model deployment, monitoring and data processing. I'm currently an undergraduate in Information Systems at **São Paulo State University (UNESP)**, where I am deepening my knowledge in technology, data science, and artificial intelligence. 
 
 Naturally curious and passionate about solving complex problems, I am always striving for excellence. My constant motivation is to learn and apply innovative approaches to improve processes and create impactful solutions.
 
