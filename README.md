@@ -11,7 +11,7 @@ Naturally curious and passionate about solving complex problems, I am always str
     <img 
         alt="loc" 
         title="Bauru" 
-        src="https://custom-icon-badges.demolab.com/badge/Bauru-Brasil-yellow?style=for-the-badge&logo=location&logoColor=white"
+        src="https://custom-icon-badges.demolab.com/badge/Bauru-yellow-Brasil-green?style=for-the-badge&logo=location&logoColor=white"
     />
     <a href="https://br.linkedin.com/in/pedro-crespan">
         <img 
@@ -31,7 +31,7 @@ Naturally curious and passionate about solving complex problems, I am always str
 
 ---
 
-### 🔨 Languages & other
+### 🔨 Languages & tools
 
 <img 
     align="left" 
