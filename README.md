@@ -1,13 +1,3 @@
-<pre align="center">
-                                        OOOOOOOOOO OOOOOOOO>       OOOO      |OOOOOOO ^OOOOOOOOOZ OOO     jOOO~     OOO    )OOv      
-                                       """OOO,""" '''''lOOOO     OOOOOJ    OOOO^ lOOl."""ZOOI""" OOO     OOOOO     'OOO0  /OOv      
-                                          OOO'           OOO    ZOO |OO]  ZOO;           ZOO;    OOO   .OOZ OOO      ZOOZ  ,On      
-                                          OOO'    OOOOOOOOOY   tOO_  mOO  ZOO            ZOO,    OOO   OOO.  OOZ  .OZ  OOOm  n      
-                                          OOO'    OOOOOOOO     OOZ   .OOO ~OOO,  .}Z     ZOO;    OOO  ZOO    /OOO  OOO  mOOO        
-                                          OOO'    OOO   OOOJ .OOO     "OOO  OOOOOOOO[    ZOO:    OOO OOOm     ZOO0 OOO    OOOv
-</pre>               
-                                                                                                                                                            
-
 **`Machine Learning Engineer`**
 
 Hello! I'm a Machine Learning Engineer at **Tractian**, specializing in performance, model deployment, monitoring and data processing. I'm currently an undergraduate in Information Systems at **São Paulo State University (UNESP)**, where I am deepening my knowledge in core concepts. 
