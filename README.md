@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="ascii_art.png" alt="ASCII art" width="700">
+  <img src="ascii-art.png" alt="ASCII art" width="700">
 </p>
 
 **`Machine Learning Engineer`**
