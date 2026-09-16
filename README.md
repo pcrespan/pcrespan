@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="ascii_art.png" alt="ASCII art" width="700">
+</p>
+
 **`Machine Learning Engineer`**
 
 Hello! I'm a Machine Learning Engineer at **Tractian**, specializing in performance, model deployment, monitoring and data processing. I'm currently an undergraduate in Information Systems at **São Paulo State University (UNESP)**, where I am deepening my knowledge in core concepts. 
