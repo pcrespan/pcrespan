@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="138" height="28" viewBox="0 0 138 28" role="img" aria-label="RG: ResearchGate">
+<title>RG: ResearchGate</title>
+<style>text{font-family:SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace;font-size:12px;font-weight:700}</style>
+<rect width="138" height="28" rx="5" fill="#3c3836"/>
+<rect x="32" width="106" height="28" rx="5" fill="#8ec07c"/><rect x="32" width="8" height="28" fill="#8ec07c"/>
+<text x="16.0" y="18" text-anchor="middle" fill="#ebdbb2">RG</text>
+<text x="85.0" y="18" text-anchor="middle" fill="#282828">ResearchGate</text>
+</svg>

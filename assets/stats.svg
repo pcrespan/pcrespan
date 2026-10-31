@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="230" viewBox="0 0 420 230" role="img" aria-label="GitHub stats for pcrespan">
+<title>GitHub stats for pcrespan</title>
+<style>
+text{font-family:SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace;}
+.t{font-size:15px;font-weight:700;fill:#fe8019}
+.l{font-size:13px;fill:#928374}
+.v{font-size:13px;font-weight:700;fill:#fabd2f}
+.p{font-size:12px;fill:#ebdbb2}
+.row{opacity:0;animation:in .6s ease-out forwards}
+@keyframes in{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}
+@media (prefers-reduced-motion:reduce){.row{animation:none;opacity:1}}
+</style>
+<rect x=".5" y=".5" width="419" height="229" rx="10" fill="#282828" stroke="#504945"/>
+<text x="20" y="32" class="t">GitHub stats / pcrespan</text>
+<line x1="20" y1="42" x2="400" y2="42" stroke="#504945"/>
+<g class="row" style="animation-delay:0.00s"><rect x="20" y="80.0" width="8" height="8" fill="#fe8019"/><text x="38" y="89.0" class="l">Public repos</text><text x="400" y="89.0" class="v" text-anchor="end">16</text></g>
+<g class="row" style="animation-delay:0.12s"><rect x="20" y="114.0" width="8" height="8" fill="#fabd2f"/><text x="38" y="123.0" class="l">Stars earned</text><text x="400" y="123.0" class="v" text-anchor="end">2</text></g>
+<g class="row" style="animation-delay:0.24s"><rect x="20" y="148.0" width="8" height="8" fill="#b8bb26"/><text x="38" y="157.0" class="l">Forks</text><text x="400" y="157.0" class="v" text-anchor="end">1</text></g>
+<g class="row" style="animation-delay:0.36s"><rect x="20" y="182.0" width="8" height="8" fill="#8ec07c"/><text x="38" y="191.0" class="l">Followers</text><text x="400" y="191.0" class="v" text-anchor="end">11</text></g>
+</svg>

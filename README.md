@@ -1,127 +1,52 @@
-**`Machine Learning Engineer`**
+<div align="center">
 
-Hello! I'm a Machine Learning Engineer at **Tractian**, specializing in performance, model deployment, monitoring and data processing. I'm currently an undergraduate in Information Systems at **São Paulo State University (UNESP)**, where I am deepening my knowledge in core concepts. 
+<img src="assets/profile.svg" alt="Pedro Crespan - Machine Learning Engineer. Typing header and neofetch card with an animated ASCII shield." width="100%" />
+
+<br />
+<br />
+
+<a href="https://br.linkedin.com/in/pedro-crespan"><img alt="LinkedIn" src="assets/badge-linkedin.svg" /></a>
+<a href="https://www.researchgate.net/profile/Pedro-Crespan"><img alt="ResearchGate" src="assets/badge-researchgate.svg" /></a>
+<img alt="Bauru, Brasil" src="assets/badge-location.svg" />
+
+</div>
+
+---
+
+### About
+
+Hello! I'm a Machine Learning Engineer at **Tractian**, specializing in performance, model deployment, monitoring and data processing. I'm currently an undergraduate in Information Systems at **São Paulo State University (UNESP)**, where I am deepening my knowledge in core concepts.
 
 Naturally curious and passionate about solving complex problems, I am always striving for excellence. My constant motivation is to learn and apply innovative approaches to improve processes and create impactful solutions.
 
+---
 
-<p align="left">
-    <img 
-        alt="loc" 
-        title="Bauru" 
-        src="https://custom-icon-badges.demolab.com/badge/Bauru-Brasil-green?style=for-the-badge&logo=location&logoColor=white"
-    />
-    <a href="https://br.linkedin.com/in/pedro-crespan">
-        <img 
-            alt="linkedin" 
-            title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linke"
-        />
-    </a>
-    <a href="https://www.researchgate.net/profile/Pedro-Crespan">
-        <img 
-            alt="researchgate" 
-            title="researchgate"
-            src="https://custom-icon-badges.demolab.com/badge/-ResearchGate-white?style=for-the-badge&logoColor=black&logo=researchgate"
-        />
-    </a>
+### Stack
+
+<p align="center">
+  <img alt="Python" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/python/python-original.svg" width="44" height="44" />&nbsp;&nbsp;
+  <img alt="PyTorch" title="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/pytorch/pytorch-original.svg" width="44" height="44" />&nbsp;&nbsp;
+  <img alt="Docker" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/docker/docker-plain-wordmark.svg" width="44" height="44" />&nbsp;&nbsp;
+  <img alt="Go" title="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/go/go-original-wordmark.svg" width="44" height="44" />&nbsp;&nbsp;
+  <img alt="PostgreSQL" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/postgresql/postgresql-original.svg" width="44" height="44" />&nbsp;&nbsp;
+  <img alt="Redis" title="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/redis/redis-original.svg" width="44" height="44" />&nbsp;&nbsp;
+  <img alt="Linux" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/linux/linux-original.svg" width="44" height="44" />&nbsp;&nbsp;
+  <img alt="FastAPI" title="FastAPI" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.18.0/icons/fastapi/fastapi-original.svg" width="44" height="44" />&nbsp;&nbsp;
 </p>
 
 ---
 
-### 🔨 Languages & tools
+### Stats
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<p align="center">
+  <img src="assets/stats.svg" alt="GitHub stats" width="49%" />
+  <img src="assets/langs.svg" alt="Top languages" width="49%" />
+</p>
 
-<img 
-    align="left" 
-    alt="Torch" 
-    title="Torch"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"
-/>
+---
 
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg"
-/>
+### Contributions
 
-<img 
-    align="left" 
-    alt="Go" 
-    title="Go"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"
-/>
-
-<img 
-    align="left" 
-    alt="postgres" 
-    title="postgres"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="Redis" 
-    title="redis"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="linux" 
-    title="linux"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-/>
-
-<img 
-    align="left" 
-    alt="fastapi" 
-    title="fastapi"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg"
-/>
-
-<br/>
-<br/>
-
-### 📌 Statistics
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats"
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pcrespan&show_icons=true&include_all_commits=true&locale=en&theme=gruvbox"
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcrespan&theme=gruvbox&layout=compact&custom_title=Languages&langs_count=9" 
-  />
-
+<p align="center">
+  <img src="assets/contributions.svg" alt="Contribution graph" width="100%" />
 </p>

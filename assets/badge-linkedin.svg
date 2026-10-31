@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="109" height="28" viewBox="0 0 109 28" role="img" aria-label="IN: LinkedIn">
+<title>IN: LinkedIn</title>
+<style>text{font-family:SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu Sans Mono', monospace;font-size:12px;font-weight:700}</style>
+<rect width="109" height="28" rx="5" fill="#3c3836"/>
+<rect x="32" width="77" height="28" rx="5" fill="#83a598"/><rect x="32" width="8" height="28" fill="#83a598"/>
+<text x="16.0" y="18" text-anchor="middle" fill="#ebdbb2">IN</text>
+<text x="70.5" y="18" text-anchor="middle" fill="#282828">LinkedIn</text>
+</svg>
