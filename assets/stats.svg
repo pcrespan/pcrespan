@@ -13,8 +13,11 @@ text{font-family:SFMono-Regular, Menlo, Consolas, 'Liberation Mono', 'DejaVu San
 <rect x=".5" y=".5" width="419" height="229" rx="10" fill="#282828" stroke="#504945"/>
 <text x="20" y="32" class="t">GitHub stats / pcrespan</text>
 <line x1="20" y1="42" x2="400" y2="42" stroke="#504945"/>
-<g class="row" style="animation-delay:0.00s"><rect x="20" y="80.0" width="8" height="8" fill="#fe8019"/><text x="38" y="89.0" class="l">Public repos</text><text x="400" y="89.0" class="v" text-anchor="end">16</text></g>
-<g class="row" style="animation-delay:0.12s"><rect x="20" y="114.0" width="8" height="8" fill="#fabd2f"/><text x="38" y="123.0" class="l">Stars earned</text><text x="400" y="123.0" class="v" text-anchor="end">2</text></g>
-<g class="row" style="animation-delay:0.24s"><rect x="20" y="148.0" width="8" height="8" fill="#b8bb26"/><text x="38" y="157.0" class="l">Forks</text><text x="400" y="157.0" class="v" text-anchor="end">1</text></g>
-<g class="row" style="animation-delay:0.36s"><rect x="20" y="182.0" width="8" height="8" fill="#8ec07c"/><text x="38" y="191.0" class="l">Followers</text><text x="400" y="191.0" class="v" text-anchor="end">11</text></g>
+<g class="row" style="animation-delay:0.00s"><rect x="20" y="63.0" width="8" height="8" fill="#fe8019"/><text x="38" y="72.0" class="l">Public repos</text><text x="400" y="72.0" class="v" text-anchor="end">16</text></g>
+<g class="row" style="animation-delay:0.12s"><rect x="20" y="85.66666666666667" width="8" height="8" fill="#fabd2f"/><text x="38" y="94.66666666666667" class="l">Stars earned</text><text x="400" y="94.66666666666667" class="v" text-anchor="end">2</text></g>
+<g class="row" style="animation-delay:0.24s"><rect x="20" y="108.33333333333334" width="8" height="8" fill="#b8bb26"/><text x="38" y="117.33333333333334" class="l">Forks</text><text x="400" y="117.33333333333334" class="v" text-anchor="end">1</text></g>
+<g class="row" style="animation-delay:0.36s"><rect x="20" y="131.0" width="8" height="8" fill="#8ec07c"/><text x="38" y="140.0" class="l">Followers</text><text x="400" y="140.0" class="v" text-anchor="end">11</text></g>
+<g class="row" style="animation-delay:0.48s"><rect x="20" y="153.66666666666669" width="8" height="8" fill="#83a598"/><text x="38" y="162.66666666666669" class="l">Commits (12 mo)</text><text x="400" y="162.66666666666669" class="v" text-anchor="end">163</text></g>
+<g class="row" style="animation-delay:0.60s"><rect x="20" y="176.33333333333334" width="8" height="8" fill="#d3869b"/><text x="38" y="185.33333333333334" class="l">Pull requests (12 mo)</text><text x="400" y="185.33333333333334" class="v" text-anchor="end">0</text></g>
+<g class="row" style="animation-delay:0.72s"><rect x="20" y="199.0" width="8" height="8" fill="#fb4934"/><text x="38" y="208.0" class="l">Issues (12 mo)</text><text x="400" y="208.0" class="v" text-anchor="end">0</text></g>
 </svg>
